@@ -95,6 +95,9 @@ This project is suitable for data analysis, dashboard development, and introduct
 
 ---
 
+# Dashboard Interaction 
+<a href = "https://github.com/awareStah/spotify-data-analytics/blob/main/Screenshot%202026-03-31%20231928.png">
+
 ## Disclaimer
 
 This dataset is synthetically generated for educational purposes and does not contain real user data from Spotify. It is designed to simulate realistic behavior patterns for analysis and learning.
