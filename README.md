@@ -13,7 +13,7 @@ This project is suitable for data analysis, dashboard development, and introduct
 
 ---
 
-<img width="1500" height="1000" alt="Untitled design" src="https://github.com/user-attachments/assets/1ef33190-3c77-4bcd-bb33-adbe2a799cb2" />
+<img width="1024" height="307" alt="image" src="https://github.com/user-attachments/assets/ddc8b23c-6de9-4d1d-8533-358113bc4289" />
 
 
 
