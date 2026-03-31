@@ -109,5 +109,6 @@ This dataset is synthetically generated for educational purposes and does not co
 This project presents a structured approach to analyzing user behavior on Spotify. By leveraging demographic, subscription, and interaction data, meaningful insights can be derived to improve user engagement, retention, and overall business performance.
 
 ## Dashboard
-<img width="1920" height="1020" alt="Screenshot 2026-03-31 231410" src="https://github.com/user-attachments/assets/88871339-1cd1-4ae7-b8df-6a970bdc68ad" />
+<img width="585" height="464" alt="Screenshot 2026-03-31 231928" src="https://github.com/user-attachments/assets/ae88105a-39db-46c1-a584-ba4e9b98fb65" />
+
 
