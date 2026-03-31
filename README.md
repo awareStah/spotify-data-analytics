@@ -13,6 +13,9 @@ This project is suitable for data analysis, dashboard development, and introduct
 
 ---
 
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/28cee7dd-e05d-4480-869c-d8cbef3ff632" />
+
+
 ## Dataset Information
 
 - Total Records: 5000  
