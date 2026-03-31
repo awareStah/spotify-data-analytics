@@ -13,7 +13,8 @@ This project is suitable for data analysis, dashboard development, and introduct
 
 ---
 
-<img width="1024" height="307" alt="image" src="https://github.com/user-attachments/assets/ddc8b23c-6de9-4d1d-8533-358113bc4289" />
+![WhatsApp Image 2026-04-01 at 04 43 07](https://github.com/user-attachments/assets/83db4aa7-257e-4d28-b67c-7639188b5f5b)
+
 
 
 
