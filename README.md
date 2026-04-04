@@ -111,6 +111,8 @@ This project is suitable for data analysis, dashboard development, and introduct
 
 # Dashboard Interaction 
 <a href = "https://github.com/awareStah/spotify-data-analytics/blob/main/Screenshot%202026-03-31%20231928.png">View Dashboard</a>
+<img width="805" height="644" alt="Screenshot 2026-03-31 232225" src="https://github.com/user-attachments/assets/83b53b04-404d-474e-ba0d-2a1aa8479bec" />
+
 
 ## Disclaimer
 
@@ -122,7 +124,5 @@ This dataset is synthetically generated for educational purposes and does not co
 
 This project presents a structured approach to analyzing user behavior on Spotify. By leveraging demographic, subscription, and interaction data, meaningful insights can be derived to improve user engagement, retention, and overall business performance.
 
-## Dashboard
-<img width="585" height="464" alt="Screenshot 2026-03-31 231928" src="https://github.com/user-attachments/assets/ae88105a-39db-46c1-a584-ba4e9b98fb65" />
 
 
