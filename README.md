@@ -43,8 +43,17 @@ This project is suitable for data analysis, dashboard development, and introduct
 | inactive_3_months_flag | 1 = inactive ≥ 3 months, 0 = active/recent | Binary |
 | ad_interaction | Indicates whether the user interacted with advertisements | Binary |
 | ad_conversion_to_subscription | Indicates whether ad led to subscription conversion | Binary |
+| music_suggestion_rating_1_to_5 | Rating given by user to music recommendations (1–5) | Integer |
+| avg_listening_hours_per_week | Average weekly listening time in hours | Float |
+| favorite_genre | User’s preferred music genre | Categorical |
+| most_liked_feature | Feature most liked by the user (e.g., Playlists, Radio, AI DJ) | Categorical |
+| desired_future_feature | Feature user wants in the future | Categorical |
+| primary_device | Device used for streaming (Mobile, Desktop, Tablet, etc.) | Categorical |
+| playlists_created | Number of playlists created by the user | Integer |
+| avg_skips_per_day | Average number of songs skipped per day | Float |
 
 ---
+
 
 ## Key Features
 
