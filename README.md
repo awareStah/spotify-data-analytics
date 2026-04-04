@@ -109,7 +109,7 @@ This project is suitable for data analysis, dashboard development, and introduct
 
 ---
 
-# Dashboard Interaction 
+# Dashboard 
 <img width="805" height="644" alt="Screenshot 2026-03-31 232225" src="https://github.com/user-attachments/assets/83b53b04-404d-474e-ba0d-2a1aa8479bec" />
 
 
