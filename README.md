@@ -1,7 +1,7 @@
 # Spotify User Behavior Analysis
 
 ## Project Overview
-This project analyzes a synthetic dataset that simulates user behavior on Spotify, one of the world’s leading music streaming platforms. The dataset contains 5000 user records designed to reflect realistic user engagement, subscription behavior, and advertisement interactions.
+This project analyzes a synthetic dataset that simulates user behavior on a Spotify-like music streaming platform. The dataset contains 5000 user records reflecting user engagement, subscription behavior, and advertisement interaction.
 
 The objective of this project is to derive meaningful insights related to:
 - User engagement patterns  
@@ -9,7 +9,18 @@ The objective of this project is to derive meaningful insights related to:
 - User churn and inactivity  
 - Marketing effectiveness through advertisements  
 
-This project is suitable for data analysis, dashboard development, and introductory machine learning applications.
+This project focuses on building an interactive dashboard using Google Sheets to visualize and analyze user behavior.
+
+---
+
+## Data Source
+
+The dataset used in this project is sourced from Kaggle.
+
+- Platform: Kaggle  
+- Dataset Name: Spotify User Behavior and Pattern  
+- Dataset Link: https://www.kaggle.com/datasets/sahilislam007/spotify-user-behavior-and-pattern
+
 
 ---
 
@@ -55,62 +66,77 @@ This project is suitable for data analysis, dashboard development, and introduct
 ---
 
 
-## Key Features
 
-- Simulates realistic user behavior on Spotify  
-- Includes both free-tier and premium users  
-- Tracks subscription lifecycle and inactivity  
-- Captures advertisement interaction and conversion behavior  
-- Supports churn analysis and user segmentation  
+## Key Features (Based on Dashboard)
+
+- KPI section displaying total users, average age, playlists, skips, inactivity, listening hours, and ratings  
+- Country-wise user distribution analysis  
+- Device usage distribution visualization  
+- Ad interaction behavior analysis  
+- Ad conversion analysis across subscription types  
+- Active vs Inactive user comparison (Churn analysis)  
+- Genre popularity insights  
+- Playlist creation trends by country  
+- Interactive filters (country, subscription type, status, genre, device)
 
 ---
 
 ## Exploratory Data Analysis (EDA)
 
 ### User Distribution
-- Analyze how users are distributed across different countries  
-- Identify regions with higher platform usage  
+- Users are distributed across multiple countries with relatively balanced participation  
+- Certain countries show higher playlist creation and engagement levels  
 
-### Subscription Analysis
-- Compare Free vs Premium subscription usage  
-- Evaluate active vs inactive users  
+### Device Usage
+- Users access the platform through multiple devices such as mobile, desktop, tablet, and smart systems  
+- Mobile and tablet users dominate overall usage  
+
+### Ad Interaction Analysis
+- A significant portion of users do not interact with ads  
+- Ad engagement shows a declining trend compared to non-interaction  
+
+### Ad Conversion Analysis
+- Among users who interact with ads, conversion to premium varies by subscription type  
+- Free users show potential for conversion but require better targeting  
 
 ### Churn Analysis
-- Use months_inactive and inactive_3_months_flag  
-- Identify inactivity patterns and potential churn  
+- Majority of users are active  
+- A smaller portion of inactive users indicates manageable churn but still requires attention  
 
-### Marketing Effectiveness
-- Analyze relationship between ad_interaction and conversion  
-- Evaluate advertisement impact on subscription  
+### Genre Popularity
+- Music preferences are diverse across genres  
+- Some genres like Pop, Rock, and Indie have higher user engagement  
 
-### Demographic Analysis
-- Study age distribution  
-- Identify key user segments  
+### Playlist Behavior
+- Playlist creation varies by country  
+- High playlist counts indicate stronger user engagement in specific regions  
 
 ---
 
 ## Key Analytical Questions
 
-- What factors influence subscription upgrades on Spotify?  
-- Which countries show higher engagement levels?  
-- How does inactivity contribute to churn?  
-- Do advertisements lead to subscription conversion?  
-- Which user segments are most valuable?  
+- Which countries have the highest user engagement and playlist creation?  
+- What devices are most commonly used for music streaming?  
+- How effective are advertisements in driving user interaction?  
+- What percentage of users convert to premium after interacting with ads?  
+- What is the current churn rate based on inactive users?  
+- Which genres are most popular among users?  
+- How does user behavior differ across subscription types?  
 
 ---
 
 ## Use Cases
 
-- User behavior analysis  
-- Churn prediction modeling  
-- Marketing analytics  
-- Customer segmentation  
-- Data visualization and reporting  
+- User engagement analysis for improving platform experience  
+- Churn detection and retention strategy planning  
+- Marketing performance evaluation (Ad effectiveness)  
+- Subscription conversion optimization  
+- Customer segmentation based on behavior and preferences  
+- Data visualization and dashboard reporting  
 
 ---
-
-# Dashboard 
-<img width="805" height="644" alt="Screenshot 2026-03-31 232225" src="https://github.com/user-attachments/assets/83b53b04-404d-474e-ba0d-2a1aa8479bec" />
+## Dashboard
+<img width="1589" height="698" alt="image" src="https://github.com/user-attachments/assets/cba4fde7-52b2-4415-b9f5-f6b974c0b632" />
 
 
 ## Disclaimer
@@ -121,7 +147,11 @@ This dataset is synthetically generated for educational purposes and does not co
 
 ## Conclusion
 
-This project presents a structured approach to analyzing user behavior on Spotify. By leveraging demographic, subscription, and interaction data, meaningful insights can be derived to improve user engagement, retention, and overall business performance.
+This dashboard provides a comprehensive view of user behavior on a music streaming platform. It highlights key insights related to user engagement, subscription patterns, churn, and advertisement effectiveness.
+
+The analysis shows that while most users remain active, there is potential to improve ad engagement and conversion rates. Additionally, understanding user preferences such as genre and device usage can help enhance personalization and overall user experience.
+
+This project demonstrates how data visualization and dashboarding can be effectively used to derive actionable business insights.
 
 
 
