@@ -24,7 +24,8 @@ The dataset used in this project is sourced from Kaggle.
 
 ---
 
-![WhatsApp Image 2026-04-01 at 04 43 07](https://github.com/user-attachments/assets/83db4aa7-257e-4d28-b67c-7639188b5f5b)
+![WhatsApp Image 2026-04-08 at 21 06 08](https://github.com/user-attachments/assets/2ae7483e-4da3-47a7-9685-404192e326a0)
+
 
 
 
