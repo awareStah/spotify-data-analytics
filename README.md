@@ -47,25 +47,23 @@ The dataset used in this project is sourced from Kaggle.
 | Column Name | Description | Data Type |
 |------------|------------|----------|
 | user_id | Unique identifier assigned to each user | Integer |
-| country | Country where the user is located | Categorical |
+| country | Country where the user is located | String |
 | age | Age of the user | Integer |
 | signup_date | Date when the user signed up | Date |
-| subscription_type | Type of plan (Free, Premium, Family, Student) | Categorical |
-| subscription_status | Indicates whether the subscription is Active or Inactive | Categorical |
+| subscription_type | Type of plan (Free, Premium, Family, Student) | String |
+| subscription_status | Indicates whether the subscription is Active or Inactive | String |
 | months_inactive | Number of months the user has been inactive | Integer |
 | inactive_3_months_flag | 1 = inactive ≥ 3 months, 0 = active/recent | Binary |
 | ad_interaction | Indicates whether the user interacted with advertisements | Binary |
 | ad_conversion_to_subscription | Indicates whether ad led to subscription conversion | Binary |
 | music_suggestion_rating_1_to_5 | Rating given by user to music recommendations (1–5) | Integer |
 | avg_listening_hours_per_week | Average weekly listening time in hours | Float |
-| favorite_genre | User’s preferred music genre | Categorical |
-| most_liked_feature | Feature most liked by the user (e.g., Playlists, Radio, AI DJ) | Categorical |
-| desired_future_feature | Feature user wants in the future | Categorical |
-| primary_device | Device used for streaming (Mobile, Desktop, Tablet, etc.) | Categorical |
+| favorite_genre | User’s preferred music genre | String |
+| most_liked_feature | Feature most liked by the user (e.g., Playlists, Radio, AI DJ) | String |
+| desired_future_feature | Feature user wants in the future | String |
+| primary_device | Device used for streaming (Mobile, Desktop, Tablet, etc.) | String |
 | playlists_created | Number of playlists created by the user | Integer |
 | avg_skips_per_day | Average number of songs skipped per day | Float |
-
----
 
 
 
